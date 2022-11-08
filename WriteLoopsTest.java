@@ -1,7 +1,8 @@
-import static org.junit.Assert.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.testng.AssertJUnit.assertEquals;
 
 /**
  * The test class WriteLoopsTest.
